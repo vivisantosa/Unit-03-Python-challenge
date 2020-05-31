@@ -1,0 +1,16 @@
+To : graders and readers of these files :
+
+Because I can't send the whole files and I am not sure if my file structure goes to github I will explain it here, so you can recreate it and run it well.
+
+I have homework folder as the main folder with 3 subfolders : 
+- Programs : where I put my python files
+- Resources : where I put my input files
+- Analysis : where I send my output files
+
+I decided to put all the python programs together despite being asked to be put in different folders because I want it to be able to run together (which I enable through main.py file, which runs all my 4 python simultaneously. The programs can also be run individually as well. 
+
+I also decided to do the extra challenge by running all the 3 paragraphs that being mention in the assignment (copying the one in the sample as paragraph_0.txt) for PyParagraph challenge - I send those file with my programs. 
+I can’t send the files for PyPoll and PyBoss because of github restriction - so please add those (election_data.csc and employee_data.csv) to the Resources folder.
+
+Thank you and enjoy.
+		
