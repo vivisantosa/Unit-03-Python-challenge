@@ -1,0 +1,6 @@
+Paragraph Analysis 
+---------------------------- 
+Word Count: 120 
+Sentence Count: 5 
+Average Letter Count: 4.6 
+Average Sentence Count: 24.0 

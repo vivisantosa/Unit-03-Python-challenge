@@ -1,0 +1,8 @@
+2020-07-16
+
+I had been told that I forgot to add the result of my analysis, which I had run previously.
+So here they are plus the screenshoot when I run it throught the main file of main.py.
+
+And thank you for the rereview.
+
+vivi 
